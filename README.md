@@ -29,7 +29,6 @@
 6) SWAGGER: Swagger configured.  url : **http://localhost:8081/swagger-ui.html**
 7) Mockito: Mockito framework used for unit testing.
 
-
 **Functionalities:**
 
 1) View all the recipe present in database.
